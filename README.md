@@ -12,7 +12,7 @@ Não se preocupe caso utilizar de maneira errônea, pois o simulador irá apenas
 Caso queira um rápido exemplo de como o simulador funciona, faça uso dos botões "Preset 1" e "Preset 2".
 
 Em caso de dúvidas ou tenha experienciado bugs/falhas, reporte em:  
-E-mail: gigazin@hotmail.com
+E-mail: gigazin@hotmail.com  
 GitHub: @gigazin | github.com/gigazin
 
 ## EN-US
