@@ -19,7 +19,7 @@ GitHub: @gigazin | github.com/gigazin
 
 This is a simple simulator of deterministic finite automatons developed in Java. It's still pending translation so everything is written in Brazilian-Portuguese for now.  
 
-It was developed by me as the final project of Formal Languages subject at the Bachelor's Computer Science course.  
+It was developed by me as the final project of Formal Languages subject in the Bachelor's Computer Science course.  
 
 It works in a very simple way, you just need to enter a DFA (deterministic finite automaton) in the insertion field and click on the "Testar" button. The operations and the result will be displayed at a box by the right side of the app screen. If your automaton has an odd quantity of numbers 1 it will be accepted or denied otherwise.  
 
